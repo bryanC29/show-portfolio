@@ -248,7 +248,7 @@ export default function Home() {
       </div>
 
       <div className="text-center my-5">
-        <p className="text-3xl font-bold">Experience</p>
+        <p className="text-3xl font-bold">Projects</p>
         <p className="text-neutral-400">Stepping stones in my Journey</p>
         <div className={`${skillContainerClass} p-3`}>
           <ExperienceCard
